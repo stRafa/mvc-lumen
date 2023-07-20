@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FLmx4qxCPvwKEnixPZUBV6AZXZfVy0Vag8BpaPD5I4qyfOEHdrbBay3S2HWgw9fk5y49QGp+DsFyDJ+BWgSpQA==",
+  "dgSpecHash": "LY4OQue6dy5MW/RhHcNcn5zFOtLxUXLjAy+9NWtVHX+6bkZd7899bhZFLtwJrsrDqIFgsd7fNISY45qofKksiA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\AppModelo\\LumenSoft.UI.Site\\LumenSoft.UI.Site.csproj",
+  "projectFilePath": "C:\\dev\\LumenMVC\\mvc-lumen\\LumenSoft.UI.Site\\LumenSoft.UI.Site.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

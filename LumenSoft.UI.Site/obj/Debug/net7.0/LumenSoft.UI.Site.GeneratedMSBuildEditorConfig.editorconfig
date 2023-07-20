@@ -9,21 +9,25 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LumenSoft.UI.Site
 build_property.RootNamespace = LumenSoft.UI.Site
-build_property.ProjectDir = C:\dev\AppModelo\LumenSoft.UI.Site\
+build_property.ProjectDir = C:\dev\LumenMVC\mvc-lumen\LumenSoft.UI.Site\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\dev\AppModelo\LumenSoft.UI.Site
+build_property.MSBuildProjectDirectory = C:\dev\LumenMVC\mvc-lumen\LumenSoft.UI.Site
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/dev/AppModelo/LumenSoft.UI.Site/Views/Home/Index.cshtml]
+[C:/dev/LumenMVC/mvc-lumen/LumenSoft.UI.Site/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/AppModelo/LumenSoft.UI.Site/Views/Shared/_Layout.cshtml]
+[C:/dev/LumenMVC/mvc-lumen/LumenSoft.UI.Site/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/dev/AppModelo/LumenSoft.UI.Site/Views/_ViewStart.cshtml]
+[C:/dev/LumenMVC/mvc-lumen/LumenSoft.UI.Site/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/LumenMVC/mvc-lumen/LumenSoft.UI.Site/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
